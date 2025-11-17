@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "shiny",
+    "entrypoint": "app.R"
+  },
+  "platform": "4.5.1",
+  "packages": {
+    "shiny": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/",
+      "description": {
+        "Package": "shiny",
+        "Version": "1.9.1"
+      }
+    },
+    "ggplot2": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/",
+      "description": {
+        "Package": "ggplot2",
+        "Version": "3.5.1"
+      }
+    },
+    "ggrepel": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/",
+      "description": {
+        "Package": "ggrepel",
+        "Version": "0.9.6"
+      }
+    }
+  },
+  "files": {
+    "app.R": {
+      "checksum": ""
+    },
+    "lijphart.csv": {
+      "checksum": ""
+    },
+    "Lijphart_AE.csv": {
+      "checksum": ""
+    }
+  },
+  "users": null
+}
