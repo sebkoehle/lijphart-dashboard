@@ -9,27 +9,119 @@
   "packages": {
     "shiny": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com/",
-      "description": {
-        "Package": "shiny",
-        "Version": "1.9.1"
-      }
+      "Repository": "https://cran.rstudio.com/"
     },
     "ggplot2": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com/",
-      "description": {
-        "Package": "ggplot2",
-        "Version": "3.5.1"
-      }
+      "Repository": "https://cran.rstudio.com/"
     },
     "ggrepel": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com/",
-      "description": {
-        "Package": "ggrepel",
-        "Version": "0.9.6"
-      }
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "Rcpp": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "rlang": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "scales": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "withr": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "httpuv": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "mime": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "jsonlite": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "xtable": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "fontawesome": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "htmltools": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "R6": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "sourcetools": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "later": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "promises": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "crayon": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "fastmap": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "commonmark": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "glue": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "bslib": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "cachem": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "lifecycle": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "cli": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "gtable": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "isoband": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "tibble": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
+    },
+    "vctrs": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com/"
     }
   },
   "files": {
@@ -45,3 +137,4 @@
   },
   "users": null
 }
+
